@@ -211,3 +211,6 @@ Listary is available as a **full free version**, offering all features and updat
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Ready to enhance your file searching experience? **Download Listary now and never waste time looking for files again!**
+
+---
+**Last updated:** 2026-09-15 12:29:07 UTC
