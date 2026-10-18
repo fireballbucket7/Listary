@@ -213,4 +213,4 @@ Listary is available as a **full free version**, offering all features and updat
 Ready to enhance your file searching experience? **Download Listary now and never waste time looking for files again!**
 
 ---
-**Last updated:** 2026-10-18 13:00:16 UTC
+**Last updated:** 2026-10-18 17:05:23 UTC
